@@ -1,0 +1,27 @@
+# KiCad temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+
+_autosave-*
+*.temp
+*-save.pro
+*-save.kicad_pcb
+
+# KiCad local/project cache
+*.kicad_prl
+fp-info-cache
+
+*.cache
+
+# Netlist / autorouter
+*.net
+*.dsn
+*.sns
+
+# Backups (IMPORTANT)
+*-backups/
+*.zip
